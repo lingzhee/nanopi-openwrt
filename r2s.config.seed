@@ -9,8 +9,8 @@ CONFIG_TARGET_ROOTFS_PARTSIZE=640
 
 
 
-CONFIG_PACKAGE_luci-app-passwall=y
-
+CONFIG_DEFAULT_luci-app-ssr-plus=y
+CONFIG_PACKAGE_v2ray-plugin=y
 
 
 
